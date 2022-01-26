@@ -1,12 +1,23 @@
 ## 😄 About Me
 
 - My name is Theodoros 👋, and I am from Greece.  
-- I currently study Software Development MSc at UofG. 
-- Writing mostly Java🐒 and some Python🐍 atm. Can do R as well (do I? 🤔). 
-- I am a noobie noob🐣, had not much experience in proper programming until last year
-- Trying to evolve 🌱 as fast I can.
+- I currently study Software Development MSc at University of Eevee. 
+- Writing mostly Java🐒 and some Python🐍 atm. Can do R as well (do I? 🤔 Maybe not). 
+- I am a noobie noob🐣, had not much experience in proper programming until last year. And this year is proper... I guess?
+- Trying to evolve 🌱 as fast I can. But never evolve an Eevee 😡
 
-hobbies: forums, blogs, irc, BT, books, crypto, Switch
+hobbies: forums, blogs, irc, BT 👀, books, crypto, Switch 
+
+
+
+
+
+
+
+
+
+
+Fun experiment with https://news.ycombinator.com/item?id=24976138
 
 <!-- ## &#x1f4c8; My GitHub Stats
 
